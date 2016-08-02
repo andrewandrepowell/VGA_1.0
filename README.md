@@ -6,5 +6,6 @@ The VGA_1.0 is a AXI-wrapped IP developed with the Xilinx Vivado IP Packager too
 Later, an example design will be included for those who need a reference.
 
 Name: Andrew Powell
+Example Repository: https://github.com/andrewandrepowell/VGA_example
 Contact Email: andrew.powell@temple.edu
 Project Website: www.powellprojectshowcase.com
